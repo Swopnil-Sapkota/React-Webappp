@@ -5,8 +5,7 @@ import ProductCard from "./components/ProductCard";
 export default function Home() {
   return (
     <main>
-      <h1>Hello World</h1>
-      <Link href="/components/users">Users</Link>
+      <h1><Link href="/components/users">Users</Link></h1>
       <ProductCard />
     </main>
   );
