@@ -40,8 +40,14 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 - List all available product categories and display products of a specific category when clicked.
 - Utilize a pie chart to illustrate product distribution by categories, showing the count per category.
 
+![1](https://github.com/Swopnil-Sapkota/React-Webappp/assets/59927837/b373e863-12a7-4fdd-a89f-d9b958178fbf)
+![2](https://github.com/Swopnil-Sapkota/React-Webappp/assets/59927837/51d81d64-ec7b-4832-93df-5c74b77d503f)
+![3](https://github.com/Swopnil-Sapkota/React-Webappp/assets/59927837/dfe57e01-49d8-45ab-9ce2-a423be617db4)
+![4](https://github.com/Swopnil-Sapkota/React-Webappp/assets/59927837/c6c10b6c-5f40-40f2-861a-77a55503a75e)
+
 ## API
 
 This web app uses the [DummyJSON](https://dummyjson.com/docs) API.
 
 Feel free to explore and contribute. Your feedback and contributions are welcome!
+
